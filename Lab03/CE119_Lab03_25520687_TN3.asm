@@ -2,7 +2,7 @@
 # MSSV: 25520687; d = 7; n(d) = 18.
 # MARS 4.5, Default memory configuration, Delayed branching OFF.
 .data
-n_value: .word 20                # Change n here for Tables 12 and 13
+n_value: .word 18                # Change n here for Tables 12 and 13
 msg_f:   .asciiz "F("
 msg_eq:  .asciiz ") = "
 newline: .asciiz "\n"
